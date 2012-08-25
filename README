@@ -1,0 +1,6 @@
+This is my most successful entry for the Scribd robot fruit hunt: http://www.scribd.com/jobs/botrace
+
+As an improvement over osmitron5500, the bot will pursue the fruit with the lowest cost. The cost of a fruit x is defined as 
+my distance to fruit x plus the average distance of fruit x from the rest of the fruits on the board.
+
+This turned out to be a successful strategy.
